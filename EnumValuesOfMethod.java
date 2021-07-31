@@ -9,7 +9,7 @@ Week(int value)
     this.value=value;
 }
 };
-public class EnumValuesOfMethod
+public class EnumValueOfMethod
 {
     public static void main(String[] args)
     {
